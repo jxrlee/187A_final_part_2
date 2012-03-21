@@ -10,7 +10,7 @@ h3 { margin-bottom: 10px; }
 #main { background: #bbb; }
 
 #banner { height: 150px; }
-#sidebar, #content { padding-top: 10px; }
+#sidebar, #content, #home { padding-top: 10px; }
 #sidebar { background: #ccc; }
 #sidebar h1, #sidebar h3, #sidebar p { padding-left: 10px; }
 
